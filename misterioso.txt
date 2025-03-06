@@ -1,0 +1,17 @@
+
+# Pista del Usuario Misterioso
+
+¡Bienvenido, explorador digital! Has llegado a un archivo importante.
+
+El hacker dejó la siguiente pista: "No busques donde todo está a la vista, sino donde los secretos se ocultan."
+
+Recuerda usar las herramientas de búsqueda avanzadas para encontrar lo que buscas. La clave está oculta en algún lugar de este repositorio, pero debes saber dónde buscar.
+
+- Buscar en los archivos no visibles.
+- Investiga si algo en el código te parece extraño.
+
+¡Sigue buscando! La flag está cerca.
+
+# La flag está oculta en el código fuente como un comentario o en una línea de texto oculta.
+
+# Continúa explorando y recuerda, la búsqueda avanzada será tu mejor aliada.
