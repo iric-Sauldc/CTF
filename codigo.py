@@ -20,6 +20,6 @@ def buscar_pista():
 # "No todo lo visible es lo que parece. A veces, la clave está oculta en lo que no se ve."
 
 # Aquí tienes el bloque de código final:
-# FLAG{Busqueda_Avanzada}
+# flag{Busqueda_Avanzada}
 
 # ¡Buena suerte buscando la flag!
